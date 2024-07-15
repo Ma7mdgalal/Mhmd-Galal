@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/mhmd-galal" target="_blank"><img src="https://img.shields.io/badge/-Mhmd%20Galal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mhmd-galal-a0635225a/" target="_blank"><img src="https://img.shields.io/badge/-Mhmd%20Galal-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/MA7MDG" target="_blank"><img src="https://img.shields.io/badge/-Mhmd%20Galal-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
